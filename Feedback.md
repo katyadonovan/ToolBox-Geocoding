@@ -1,3 +1,4 @@
+## ToolBox Feedback
 #### ToolBox Word Frequency Analysis:
 I enjoyed this particular toolbox, but it was a little bit redudant since it was extremely similar to our mini project three. However, it was a nice option to have if people were interested in an easier toolbox. If I were to improve it, I would make it that students would have to one step more of their choice that analyzes the text, such as the most unique words or the most common words above a certain length.
 
